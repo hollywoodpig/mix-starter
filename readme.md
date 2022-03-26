@@ -1,8 +1,10 @@
-<h1>💡 minimal laravel mix starter</h1>
-<h3>🛠️ start project</h3>
+<h2>💡 minimal laravel mix starter</h2>
+<h4>🛠️ start project</h4>
 <pre>npm i && npm run start</pre>
-<h3>⌨️ build project</h3>
+<h4>⌨️ build project</h4>
 <pre>npm run build</pre>
-<h3>👉 also</h3>
-<a target="_blank" href="https://laravel-mix.com/docs/main/installation">laravel mix docs</a>
-<a target="_blank" href="https://laravel-mix.com/extensions/html-builder">html builder docs</a>
+<h4>👉 docs</h4>
+<ul>
+	<li><a href="https://laravel-mix.com/docs/main/installation">laravel mix</a></li>
+	<li><a href="https://laravel-mix.com/extensions/html-builder">html builder</a></li>
+</ul>
